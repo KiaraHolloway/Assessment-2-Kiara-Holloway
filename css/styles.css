@@ -1,0 +1,40 @@
+.kiara{
+
+    bottom:0;
+    Float :left;
+    position:fixed;
+    
+}
+
+
+.content{
+
+    width: 700px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    background: darkmagenta;
+}
+
+Body{
+
+    background-image:url(../Images/backgrounda.jpg) ;
+    background-repeat: repeat-y;
+    width: 100px;
+}
+
+
+.Bird{
+background-image: url(../Images/istockphoto-183412466-612x612.jpg);
+background-image: no repeat;
+background-size: cover;
+overflow:auto;
+width : 300px;
+height : 100px;
+margin:15px;
+border:2px solid skyblue;
+float:right;
+
+
+}

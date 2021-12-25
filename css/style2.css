@@ -1,0 +1,15 @@
+
+body{
+    background-image: url(/Images/bbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:700px;
+    justify-content:end;
+
+}
+
+.Banner{
+    justify-content: stretch;
+    width:700px;
+    height:300px;
+}
